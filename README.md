@@ -1,5 +1,6 @@
 # Examen-Noviembre-2023
 Pablo Jiménez Girardeau     Link: https://github.com/PabloJimenezGirardeau/Examen-Noviembre-2023.git
+
 **1.** Un Pull Request sirve para, tras haber realizado un fork de un repositorio remoto y haber realizado un clone del proyecto para trabajar sobre este como repositorio local, solicitar desde Github al propietario original del repositorio que integre los cambios que hemos realizado nosotros desde este como local al proyecto original. El Pull Request pordrá ser entoces aceptado o rechazado por el propietario.
 
 **2.** Un merge conflict se produce cuando, al fusionar dos ramas mediante un git merge por ejemplo, estas entran en conflicto debido a diversos factores. El que más hemos visto es cuando en un nano hay texto repetido o texto que no debería estar. La solución para resolver el conflicto consistía en abrir de editor de texto de nuevo y editar manualmente el archivo y quitar los fallos de este y el texto que estaba produciendo el conflicto.
